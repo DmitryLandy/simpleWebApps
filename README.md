@@ -1,4 +1,7 @@
 # simpleWebApps
 ---
 
-This web app is my version of the one created [here](https://github.com/abarna-codespot/A-simple-Calculator/blob/master/script.js). It does the basic calculator functions and looks good while doing it!
+These are multiple simple web apps that use HTML, CSS, and JavaScript. The following are pictures of some of my projects:
+
+## [Calculator](https://github.com/DmitryLandy/simpleWebApps/tree/main/calculator)
+![IMG](https://github.com/DmitryLandy/simpleWebApps/blob/main/calculator/calculatorPic.JPG "Calculator")
